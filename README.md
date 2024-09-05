@@ -155,7 +155,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1200/1*zKA45Rj3uFEfMe7gubcX0g.png" width="400" height="200" alt="Tercera Página">
 
     <!-- Hipervínculo a otra página -->
-    <a href="pagina1.html">Click para regresar a la primera página web</a>
+    <a href="https://joffre-c.github.io/githubpage1/">Click para regresar a la primera página web</a>
 
     <!-- Cierre innovador -->
     <div class="call-to-action">
